@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "526797189044",
+    "firebase_url": "https://zippychat-5dffe.firebaseio.com",
+    "project_id": "zippychat-5dffe",
+    "storage_bucket": "zippychat-5dffe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526797189044:android:8e6d44943b339f12",
+        "android_client_info": {
+          "package_name": "com.example.guest.zippychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526797189044-ahk34u31hu0d10cosbv125823f5r02ho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.guest.zippychat",
+            "certificate_hash": "764C05BAAB5A84667A8145033A92738CD765EDB5"
+          }
+        },
+        {
+          "client_id": "526797189044-n4f8gd5e0smuttj3ckp1a13eq9urp7o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKvro0HSpFFywfXzGpbVA-c4-sLOlrmts"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526797189044-n4f8gd5e0smuttj3ckp1a13eq9urp7o9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
